@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:  "Poppins"; 
+    background-color: hsl(191, 34%, 84%);
+
+}
+
+.container {
+     
+    width: 90%;
+    margin: auto;
+    padding: 2rem;
+    
+
+}
+
+#mainHeading {
+    color: hsl(231, 79%, 60%);
+    text-shadow: 3px 3px 10px hsl(113, 77%, 48%);
+    font-family: "Kablammo";
+    font-size: 6rem;
+    text-align: center;
+    /* font-family:  "Poppins";  */
+    /* font-family: "Parisienne"; */
+    /* font-family: "Roboto Slab"; */
+
+}
+.imagemapcontainer {
+    position: relative;
+    
+}
+.imagemapcontainer > img {
+    position: absolute;
+    margin-left: 15%;
+     
+}
+
+.future {
+    margin-bottom: 5rem;
+}
+
+h3 {
+    font-size: 3rem;
+    font-family: "Great Vibes";
+    color: blue;
+    margin: 1rem;
+}
+h5 {
+    font-size: 1.5rem;
+    font-family: "Playfair Display";
+    margin: 1rem;
+    color: chocolate;
+}
+p , li , h5{
+    font-weight: 600;
+    font-size: 1.3rem;
+   
+}
+h4 {
+    font-size: 1.5rem;
+    color: hsl(240, 66%, 57%);
+    font-family: "Poppins";
+}
+
+ 
